@@ -1,0 +1,23 @@
+```
+
+
+#include <iostream>
+
+using namespace std;
+
+int main(){
+int u;
+cout<<"How much money you have in your pocket =  ";
+cin>>u;
+cout<<"After five years = ";
+cout<<u*10000;
+
+    return 0;
+}
+output
+How much money you have in your pocket =  200
+After five years = 2000000
+
+
+
+```
